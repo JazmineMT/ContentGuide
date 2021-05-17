@@ -2,7 +2,28 @@
 
 To keep our content consistent we adhere to the following grammar rules and mechanics. This guide will define our style for how we write technical documentation.
 
-[Links](#hyphens)
+[Links](#links)
+<br/>
+[Click vs Select](#click-vs-select)
+<br/>
+[Italics](#italics)
+<br/>
+[Capitlization](#capitalization)
+<br/>
+[Code in Text](#code-in-text)
+<br/>
+[Contractions](#contractions)
+<br/>
+[Dates](#dates)
+<br/>
+[Hyphens](#hyphens)
+<br/>
+[Numbers](#numbers)
+<br/>
+[Emojis](#emojis)
+<br/>
+[Writing About Revenuecat](writing-about-revenuecat)
+
 
 ## Links
 
@@ -148,7 +169,5 @@ Emojis are a fun way to add humor and visual interest to your writing but use th
 
 ## Writing About RevenueCat 
 
-Always capitalize the ‘R’ and ‘C’ in RevenueCat.
-
-Refer to RevenueCat as ‘we’ not ‘it’.
+When we refer to ourselves we always capitalize the ‘R’ and ‘C’ and use ‘we’ not ‘it’.
 
