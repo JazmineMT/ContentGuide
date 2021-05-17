@@ -1,4 +1,5 @@
-# Creating Strucutred Content 
+# <div align='center'>  Creating Strucutred Content 
+
 
 When writing technical documentation there are cases where the information is best shown to the reader with a table, photo, etc. This guide will go over our best practices for creating additional structured content for a page.
 
