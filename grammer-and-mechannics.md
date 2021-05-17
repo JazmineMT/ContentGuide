@@ -6,7 +6,8 @@ To keep our content consistent we adhere to the following grammar rules and mech
 
 Write links that are descriptive and have meaning. State where the links go and what content will be found there. It is best to use keywords from the linked page. Using descriptive links allows the reader to easily scan pages and assists with screen reading technologies. 
 
->❌  
+>❌  Don't 
+>
 >You will find more documentation here.
 
  > ✅   For additional information review the Configuring Products guide. 
