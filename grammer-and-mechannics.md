@@ -1,4 +1,4 @@
- # Grammar and Mechanics
+ # <div align='center'> Grammar and Mechanics
 
 To keep our content consistent we adhere to the following grammar rules and mechanics. This guide will define our style for how we write technical documentation.
 
