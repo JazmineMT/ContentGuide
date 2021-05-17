@@ -10,7 +10,7 @@ Write links that are descriptive and have meaning. State where the links go and 
 ❌  You will find more documentation <a href="url">here</a>.
 </pre>
 <pre>
-✅   For additional information review the <a href="url"> Configuring Products</a> guide. 
+✅  For additional information review the <a href="url"> Configuring Products</a> guide. 
 </pre>
 
 
@@ -32,7 +32,7 @@ We use a couple of different capitalizations. Title case capitalizes the first l
 
 When writing titles and headers we follow title case guidelines. 
 <pre>
-❌   Create an In-app purchase
+❌  Create an In-app purchase
  </pre>
 <pre>
 ✅  Create an In-App Purchase
@@ -42,16 +42,16 @@ When writing titles and headers we follow title case guidelines.
 
 We write all other content (except tiles and headers) in sentence case. 
 <pre>
-✅   Capitalize the name of RevenueCat terms such as the Purchases SDK or Offerings. 
+✅  Capitalize the name of RevenueCat terms such as the Purchases SDK or Offerings. 
 </pre>
 <pre>
-❌   We don’t capitalize words such as email, internet, etc. 
+❌  We don’t capitalize words such as email, internet, etc. 
 </pre>
 
 ### Referencing Other Companies
 Honor’s the companies own names for themselves. Go by the official website.
 <pre>
-✅   In the Google Play Console.
+✅  In the Google Play Console.
 </pre>
 
 
@@ -69,7 +69,7 @@ For longer blocks of code, use a code snippet block to keep all of the code cont
 
 For small code references, such as an SDK method or parameter from a webhook event, always contain it in backticks
 <pre>
-✅    The `getOfferings` method will fetch the Offerings from RevenueCat
+✅  The `getOfferings` method will fetch the Offerings from RevenueCat
 </pre>
 <pre>
 ❌  The getOfferings() method will fetch the Offerings from RevenueCat
@@ -86,11 +86,11 @@ Spell out months and days of the week in either long or short form.
 
 ### Short form:  Abbreviate to 3 letters, no period 
 <pre>
-✅    Mon, Tue, Wed - Jan, Feb, Mar
+✅  Mon, Tue, Wed - Jan, Feb, Mar
 </pre>
 ### Long-form: Spell out in body copy, or whenever the day or month is framed by other words
 <pre>
-✅    Saturday, August 18
+✅  Saturday, August 18
 </pre>
 
 ## Exclamation Points
@@ -108,7 +108,7 @@ We reference email without the hyphen.
 
 When used as a verb, it’s two words 
 <pre>
-✅   Please sign in to your account
+✅  Please sign in to your account
 </pre>
 
 When used as an adjective, it’s hyphenated. 
@@ -120,7 +120,7 @@ When used as an adjective, it’s hyphenated.
 
 When used as a noun or adjective, it’s one word or hyphenated.
 <pre>
-✅   Enter your login (log-in) information
+✅  Enter your login (log-in) information
 </pre>
 
 When used as a verb it’s two words. 
@@ -132,11 +132,11 @@ When used as a verb it’s two words.
 
 When referring to numbers it’s best to use digits instead of spelling the word out in most cases. It helps draw the eye of the reader to the important content. 
 <pre>
-✅    The Apple subscription terms require users to cancel subscriptions at least 24 hours before the next renewal.
+✅  The Apple subscription terms require users to cancel subscriptions at least 24 hours before the next renewal.
 </pre>
 When the number doesn’t represent an actual fact, but generalization spell out the word
 <pre>
-✅   We have thousands of developers using RevenueCat.
+✅  We have thousands of developers using RevenueCat.
 </pre>
 
 ## Emojis
