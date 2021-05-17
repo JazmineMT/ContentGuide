@@ -22,7 +22,7 @@ To keep our content consistent we adhere to the following grammar rules and mech
 <br/>
 [Emojis](#emojis)
 <br/>
-[Writing About Revenuecat](writing-about-revenuecat)
+[Writing About Revenuecat](#writing-about-revenuecat)
 
 
 ## Links
