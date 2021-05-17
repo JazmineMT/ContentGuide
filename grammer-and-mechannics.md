@@ -1,6 +1,8 @@
  # Grammar and Mechanics
 
-To keep our content consistent we adhere to the following grammar rules and mechanics. This guide will define our style for how we write technical documentation. 
+To keep our content consistent we adhere to the following grammar rules and mechanics. This guide will define our style for how we write technical documentation.
+
+[Links](#hyphens)
 
 ## Links
 
