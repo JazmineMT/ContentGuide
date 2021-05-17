@@ -10,7 +10,7 @@ Write links that are descriptive and have meaning. State where the links go and 
 ❌  You will find more documentation <a href="url">here</a>.
 </pre>
 <pre>
-✅  For additional information review the <a href="url"> Configuring Products</a> guide. 
+✅  For additional information review the <a href="url">Configuring Products</a> guide. 
 </pre>
 
 
