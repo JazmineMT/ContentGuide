@@ -1,8 +1,8 @@
- #Grammar and Mechanics
+ # Grammar and Mechanics
 
 To keep our content consistent we adhere to the following grammar rules and mechanics. This guide will define our style for how we write technical documentation. 
 
-##Links
+## Links
 
 Write links that are descriptive and have meaning. State where the links go and what content will be found there. It is best to use keywords from the linked page. Using descriptive links allows the reader to easily scan pages and assists with screen reading technologies. 
 
@@ -11,21 +11,21 @@ Write links that are descriptive and have meaning. State where the links go and 
  ✅   For additional information review the Configuring Products guide. 
 
 
-##Click vs Select
+## Click vs Select
 
 We use the word **select** instead of **click** when addressing our readers. This action can be used agnostically across devices. 
 
 
-##Italics
+## Italics
 
 In general, we don’t *Italicize*, instead, we **bold** words. This allows readers to more easily scan our documentation. 
 
-##Capitalization
+## Capitalization
 
 We use a couple of different capitalizations. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word and proper nouns in a phrase.
 
 
-###Headers/Titles - Title Case
+### Headers/Titles - Title Case
 
 When writing titles and headers we follow title case guidelines. 
 
@@ -33,7 +33,7 @@ When writing titles and headers we follow title case guidelines.
 
 > ✅  Create an In-App Purchase
 
-###Other Content - Sentence Case 
+### Other Content - Sentence Case 
 
 We write all other content (except tiles and headers) in sentence case. 
 
@@ -41,23 +41,23 @@ We write all other content (except tiles and headers) in sentence case.
 
 >❌   We don’t capitalize words such as email, internet, etc. 
 
-###Referencing Other Companies
+### Referencing Other Companies
 Honor’s the companies own names for themselves. Go by the official website.
 
 >✅   In the Google Play Console. 
 
 
-##Code in Text
+## Code in Text
 
 When writing code in the documentation it’s best to separate it from regular text.
 
-###Large Code Blocks
+### Large Code Blocks
 
 For longer blocks of code, use a code snippet block to keep all of the code contained and formatted
 
 < add code block>
 
-###Small Code References 
+### Small Code References 
 
 For small code references, such as an SDK method or parameter from a webhook event, always contain it in backticks
 
@@ -66,35 +66,35 @@ For small code references, such as an SDK method or parameter from a webhook eve
 >❌  The getOfferings() method will fetch the Offerings from RevenueCat
 
 
-##Contractions
+## Contractions
 
 We like to keep our tone conversational so we use contractions regularly. 
 
 
-##Dates
+## Dates
 
 Spell out months and days of the week in either long or short form. 
 
-###Short form:  Abbreviate to 3 letters, no period 
+### Short form:  Abbreviate to 3 letters, no period 
 
 >✅    Mon, Tue, Wed - Jan, Feb, Mar
 
-###Long-form: Spell out in body copy, or whenever the day or month is framed by other words
+### Long-form: Spell out in body copy, or whenever the day or month is framed by other words
 
 >✅    Saturday, August 18
 
-##Exclamation Points
+## Exclamation Points
 
 We love sharing our enthusiasm with an exclamation point! They can help keep communication light. Use them when needed. 
 
-##Hyphens 
+## Hyphens 
 
-###Email vs E-mail
+### Email vs E-mail
 
 We reference email without the hyphen.
 
 
-###Sign -in/up vs Sign in/up 
+### Sign -in/up vs Sign in/up 
 
 When used as a verb, it’s two words 
 
@@ -105,7 +105,7 @@ When used as an adjective, it’s hyphenated.
 >✅  The sign-up page crashed
 
 
-###Login vs  Log in vs Log-in
+### Login vs  Log in vs Log-in
 
 When used as a noun or adjective, it’s one word or hyphenated.
 
@@ -116,7 +116,7 @@ When used as a verb it’s two words.
 >✅  Log in with your account
 
 
-##Numbers 
+## Numbers 
 
 When referring to numbers it’s best to use digits instead of spelling the word out in most cases. It helps draw the eye of the reader to the important content. 
 
@@ -127,12 +127,12 @@ When the number doesn’t represent an actual fact, but generalization spell out
 >✅   We have thousands of developers using RevenueCat.
 
 
-##Emojis
+## Emojis
 
 Emojis are a fun way to add humor and visual interest to your writing but use them infrequently and deliberately.
 
 
-##Writing About RevenueCat 
+## Writing About RevenueCat 
 
 Always capitalize the ‘R’ and ‘C’ in RevenueCat.
 
