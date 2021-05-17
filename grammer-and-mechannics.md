@@ -97,12 +97,12 @@ For longer blocks of code, use a code snippet block to keep all of the code cont
 ### Small Code References 
 
 For small code references, such as an SDK method or parameter from a webhook event, always contain it in backticks
-<pre>
-✅  The `getOfferings` method will fetch the Offerings from RevenueCat
-</pre>
-<pre>
-❌  The getOfferings() method will fetch the Offerings from RevenueCat
-</pre>
+
+> ✅   The `getOfferings` method will fetch the Offerings from RevenueCat
+
+
+> ❌  The getOfferings() method will fetch the Offerings from RevenueCat
+
 
 <br/>
 
