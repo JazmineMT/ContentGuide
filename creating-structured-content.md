@@ -16,8 +16,9 @@ When deciding if a table or list  is the right option let’s reference the tabl
 
 ## Glossary
 Throughout our documentation, we often are referencing products or tools that are unique to RevenueCat.In an effort to make sure our reader is always understanding our references. It’s best to add the glossary term to the reader than review while reading. You can review ReadMe glossary term guide here for how to add our documentation. 
-
+<div align='center'>
 <img src="ezgif.com-gif-maker.gif"/>
+</div>
 
 ## Photos
 Some information is best displayed with a photo. We often use photos in our product installation guides to show different dashboards and other relevant information. 
@@ -25,8 +26,9 @@ Some information is best displayed with a photo. We often use photos in our prod
 When utilizing photos make sure only relevant information is captured. If pointing to specific items on the page make sure to mark up the image to reflect this. We use red identifiers when marking photos.
 
 Here is an example of a photo marked up for documentation:
-
+<div align='center'>
 <img src='Screen Shot 2021-05-17 at 4.27.00 PM.png'/>
+</div>
 
 Don’t forget to create Alt text that described the photo. This allows access to screen reading technologies.
 
