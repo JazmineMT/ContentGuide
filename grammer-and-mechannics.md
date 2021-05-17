@@ -92,7 +92,13 @@ When writing code in the documentation it’s best to separate it from regular t
 
 For longer blocks of code, use a code snippet block to keep all of the code contained and formatted
 
-< add code block>
+````Swift
+✅  Purchases.shared.offerings { (offerings, error) in
+    if let packages = offerings?.current?.availablePackages {
+        // Display packages for sale
+    }
+}
+````
 
 ### Small Code References 
 
