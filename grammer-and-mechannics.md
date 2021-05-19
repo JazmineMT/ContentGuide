@@ -27,34 +27,35 @@ To keep our content consistent we adhere to the following grammar rules and mech
 
 ## Links
 
-Write links that are descriptive and have meaning. State where the links go and what content will be found there. It is best to use keywords from the linked page. Using descriptive links allows the reader to easily scan pages and assists with screen reading technologies. 
+Write links that are descriptive and have meaning. Link descriptions should have words describing where they go and what content is there. It is best to use keywords from the linked page. Using descriptive links allows the reader to scan pages and assists with screen reading technologies. 
 
 <pre>
 ❌  You will find more documentation <a href="url">here</a>.
 </pre>
 <pre>
-✅  For additional information review the <a href="url">Configuring Products</a> guide. 
+✅  For additional information, review the <a href="url">Configuring Products</a> guide. 
 </pre>
 <br/>
 
-## Click vs Select
+## Click vs. Select
 
-We use the word **select** instead of **click** when addressing our readers. This action can be used agnostically across devices. 
+We use the word **select** instead of **click** when addressing our readers. This action is used agnostically across devices. 
 
 <br/>
 
 ## Italics
 
-In general, we don’t *Italicize*, instead, we **bold** words. This allows readers to more easily scan our documentation. 
+In general, we don’t *italicize*; instead, we **bold** words. Readers can quickly scan our documentation.
 
 <br/>
 
 ## Capitalization
 
-We use a couple of different capitalizations. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word and proper nouns in a phrase.
+We use a couple of different capitalizations: title case and sentence case. 
 
 
 ### Headers/Titles - Title Case
+Title case is when the first letter of every word except articles, prepositions, and conjunctions is capitlized.  
 
 When writing titles and headers we follow title case guidelines. 
 <pre>
@@ -67,6 +68,8 @@ When writing titles and headers we follow title case guidelines.
 
 
 ### Other Content - Sentence Case 
+Sentence case is when the first letter in the first word and proper nouns in a phrase is capitalized.
+
 
 We write all other content (except tiles and headers) in sentence case. 
 <pre>
@@ -126,7 +129,7 @@ Spell out months and days of the week in either long or short form.
 <pre>
 ✅  Mon, Tue, Wed - Jan, Feb, Mar
 </pre>
-### Long-form: Spell out in body copy, or whenever the day or month is framed by other words
+### Long-form: Spell out whenever other words frame the day or month
 <pre>
 ✅  Saturday, August 18
 </pre>
@@ -148,7 +151,7 @@ We reference email without the hyphen.
 
 ### Sign -in/up vs Sign in/up 
 
-When used as a verb, it’s two words 
+When it is used as a verb, it’s two words 
 <pre>
 ✅  Please sign in to your account
 </pre>
@@ -160,12 +163,12 @@ When used as an adjective, it’s hyphenated.
 
 ### Login vs  Log in vs Log-in
 
-When used as a noun or adjective, it’s one word or hyphenated.
+When used as an adjective or noun, it’s one word or hyphenated.
 <pre>
 ✅  Enter your login (log-in) information
 </pre>
 
-When used as a verb it’s two words. 
+When it is used as a verb, it’s two words  
 <pre>
 ✅  Log in with your account
 </pre>
@@ -174,11 +177,11 @@ When used as a verb it’s two words.
 
 ## Numbers 
 
-When referring to numbers it’s best to use digits instead of spelling the word out in most cases. It helps draw the eye of the reader to the important content. 
+When referring to numbers it’s best to use digits instead of spelling the word out in most cases. It helps draw the eye of the reader to the critical content. 
 <pre>
 ✅  The Apple subscription terms require users to cancel subscriptions at least 24 hours before the next renewal.
 </pre>
-When the number doesn’t represent an actual fact, but generalization spell out the word
+When the number doesn’t represent a fact, but generalization spell out the word
 <pre>
 ✅  We have thousands of developers using RevenueCat.
 </pre>
@@ -191,7 +194,30 @@ Emojis are a fun way to add humor and visual interest to your writing but use th
 
 <br/>
 
+## Active Voice
+Use active voice, not passive voice
+
+Active voice is when the subject of a sentence performs the verb’s action. Passive voice is when the verb acts on the subject. 
+<div>
+<pre>
+ ✅  The PurchaserInfo object contains all of the purchase and subscription data available about the user.
+ </pre>
+<pre>
+❌   All subscription and purchase data can be found in the PurchaserInfo object. 
+</pre>
+ </div>
+
+<br/>
+
 ## Writing About RevenueCat 
 
 When we refer to ourselves we always capitalize the ‘R’ and ‘C’ and use ‘we’ not ‘it’.
+
+
+
+
+
+
+
+
 
