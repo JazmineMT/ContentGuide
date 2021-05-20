@@ -131,7 +131,7 @@ Spell out months and days of the week in either long or short form.
 </pre>
 ### Long-form: Spell out whenever other words frame the day or month
 <pre>
-✅  Saturday, August 18
+✅  Saturday, April 17
 </pre>
 
 <br/>
