@@ -110,26 +110,16 @@ Although we are subject matter experts of our product we never want to use an I-
 
 Our voice always stays the same, but our tone will change based on the situation. Think of it this way; if you're whispering or yelling, you have stayed the same - just changed your tone. 
 
-
-
-Voice (doesn't change)
-We always want to be:
-
-Conversational
-Action focused
-Clear and Concise
-Helpful
+<br/>
   
-  
-Tone (varies based on situation)
-We can make sure things sound more:
+  | Voice (doesn't change)  | Tone (varies based on situation)|     
+|:-------------------:|:-----------------:|
+|Conversational       |     Friendly      |
+|Action focused       |    Urgent         |
+|Clear and Concise.   |Encouraging        |
+ | Helpful            |  Casual           |
 
-Friendly 
-Urgent
-Encouraging
-
-
-
+<br/>
 
 If a customer is reaching out to us facing an integration problem, they are likely stressed. They are likely looking for a fast and easy-to-understand solution - so being direct and concise is best here. However, if a customer reading through documentation or comes to us after shipping their app, we can choose to be more friendly and in those exclamation points!
 
