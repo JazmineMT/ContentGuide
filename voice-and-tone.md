@@ -8,7 +8,7 @@ Our Voice is our writing style. We strive to provide a consistent experience wit
 
 **Conversational**, we know when to be professional and when to be more casual.
 
-** Action focused**; we are clear about the steps customers need to follow
+**Action focused**, we are clear about the steps customers need to follow
 
 **Clear and Concise**, we don't use ten words when five are enough.
 
