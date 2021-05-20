@@ -1,6 +1,6 @@
 # <div align='center'> RevenueCat's Voice 
   
-Our Voice is our writing style. We strive to provide a consistent experience with our customers- it; 's a way to show we're considerate about what they need to know. 
+Our Voice is our writing style. We strive to provide a consistent experience with our customers- it's how we show we're considerate about what they need to know. 
 
 <br/>
   
