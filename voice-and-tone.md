@@ -108,7 +108,7 @@ Although we are subject matter experts of our product, we never want to use an I
 
 ## Voice vs. Tone 
 
-Our Voice always stays the same, but our Tone will change based on the situation. Think of it this way; if you're whispering or yelling, you have stayed the same - just changed your Tone. 
+Our Voice always stays the same, but our Tone will change based on the situation. Think of it this way; if you're whispering or yelling, you have stayed the same - just changed your tone. 
 
 <br/>
   
