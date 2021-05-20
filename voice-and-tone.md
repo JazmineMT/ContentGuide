@@ -24,7 +24,7 @@ Our Voice is our writing style. We strive to provide a consistent experience wit
 <li>  Write in Active voice (link)
 <li>  Include a call to action (link) 
 <li> Use contractions 
-<li> Address our readers/customers as ‘you’
+<li> Address our customers as ‘you’
 </ul>
 
 <br/>
