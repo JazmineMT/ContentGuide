@@ -60,11 +60,11 @@ These are best used to alert our readers to process with caution or warn of a co
 > You could let the reader know about a feature to be careful about
   
 ### Error
-Error callouts are the least used in our documentation. These should only be used when ??
+Add content
 
 >❗  Error
 > 
-> Can be used to .....
+> Add content
 
 
 ## Next Steps 
