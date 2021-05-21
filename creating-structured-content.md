@@ -1,4 +1,4 @@
-# <div align='center'>  Creating Strucutred Content 
+# <div align='center'>  Creating Structured Content 
 
 
 When writing technical documentation, there are cases where a table, photo, etc., is the best way to display data. This guide will go over our best practices for creating additional structured content for a page.
