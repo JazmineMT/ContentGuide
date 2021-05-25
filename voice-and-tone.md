@@ -21,7 +21,7 @@ Our Voice is our writing style. We strive to provide a consistent experience wit
 <ul>
 <li> Write in short sentences 
 <li>  Create content that is easy to scan with tables, bullet points, bold words, etc
-<li>  Write in Active voice (link)
+<li>  Write in [Active voice](https://github.com/JazmineMT/ContentGuide/blob/main/grammer-and-mechannics.md#active-voice)
 <li>  Include a call to action (link) 
 <li> Use contractions 
 <li> Address our customers as ‘you’
