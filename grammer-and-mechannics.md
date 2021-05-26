@@ -192,20 +192,6 @@ When the number doesn’t represent a fact, but generalization spell out the wor
 
 Emojis are a fun way to add humor and visual interest to your writing but use them infrequently and deliberately.
 
-<br/>
-
-## Active Voice
-Use active voice, not passive voice
-
-Active voice is when the subject of a sentence performs the verb’s action. Passive voice is when the verb acts on the subject. 
-<div>
-<pre>
- ✅  The PurchaserInfo object contains all of the purchase and subscription data available about the user.
- </pre>
-<pre>
-❌   All subscription and purchase data can be found in the PurchaserInfo object. 
-</pre>
- </div>
 
 <br/>
 
