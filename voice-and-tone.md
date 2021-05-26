@@ -22,7 +22,7 @@ Our Voice is our writing style. We strive to provide a consistent experience wit
 <li> Write in short sentences 
 <li>  Create content that is easy to scan with tables, bullet points, bold words, etc
 <li>  Write in <a href="#active-voice"> active voice</a>
-<li>  Include a  <a href="#calls-to-action"> call to action</a>
+<li>  Include a  <a href="#call-to-action"> call to action</a>
 <li> Use contractions 
 <li> Address our customers as ‘you’
 </ul>
@@ -145,7 +145,7 @@ Active voice is when the subject of a sentence performs the verb’s action. Pas
   
 <br/>
   
- ## Calls to Action
+ ## Call to Action
   A call to action is a inviation for our reader to take a desired action. We use strong command verbs that encourage a reader to take the next step.
   
   <div>
