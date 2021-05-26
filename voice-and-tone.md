@@ -131,7 +131,7 @@ If a customer is reaching out to us facing an integration problem, they are like
  <br/>
 
 ### Active Voice
-When writing it's best to use active voice and avoid passive voice. We use active voice to convey a strong and clear tone. It allows us to write concisely and efficently, therefore creating a more engagging content that make it easier to follow along.
+When writing, it's best to use active voice and avoid passive voice. We use active voice to convey a strong and clear tone. It allows us to write concisely and efficiently, creating more engaging content that makes it easier to follow along.
 
 Active voice is when the subject of a sentence performs the verb’s action. Passive voice is when the verb acts on the subject. 
 <div>
@@ -146,7 +146,7 @@ Active voice is when the subject of a sentence performs the verb’s action. Pas
 <br/>
   
  ### Call to Action
-  A call to action is a inviation for our reader to take a desired action. We use strong command verbs that encourage a reader to take the next step.
+  A call to action is an invitation for our reader to take the desired action. We use strong command verbs that encourage a reader to take the next step.
   
   <div>
 <pre>
@@ -157,7 +157,6 @@ Active voice is when the subject of a sentence performs the verb’s action. Pas
      checking out our <a href="url"> guide on entitlements </a>.
 </pre>
  </div>
-  
   
   
   
