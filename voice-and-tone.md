@@ -22,7 +22,7 @@ Our Voice is our writing style. We strive to provide a consistent experience wit
 <li> Write in short sentences 
 <li>  Create content that is easy to scan with tables, bullet points, bold words, etc
 <li>  Write in <a href="#active-voice"> active voice</a>
-<li>  Include a  <a href="#call-to-action"> call to action</a>
+<li>  Include a  <a href="#calls-to-action"> call to action</a>
 <li> Use contractions 
 <li> Address our customers as ‘you’
 </ul>
