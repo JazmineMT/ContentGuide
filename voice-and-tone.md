@@ -21,8 +21,8 @@ Our Voice is our writing style. We strive to provide a consistent experience wit
 <ul>
 <li> Write in short sentences 
 <li>  Create content that is easy to scan with tables, bullet points, bold words, etc
-<li>  Write in <a href="https://github.com/JazmineMT/ContentGuide/blob/main/grammer-and-mechannics.md#active-voice"> active voice</a>
-<li>  Include a call to action (link) 
+<li>  Write in <a href="#active-voice"> active voice</a>
+<li>  Include a  <a href="#call-to-action"> call to action</a>
 <li> Use contractions 
 <li> Address our customers as ‘you’
 </ul>
@@ -123,6 +123,47 @@ Our Voice always stays the same, but our Tone will change based on the situation
 
 If a customer is reaching out to us facing an integration problem, they are likely stressed. They are probably looking for a fast and easy-to-understand solution - so being direct and concise is best here. However, if a customer reading through documentation or comes to us after shipping their app, we can choose to be more friendly and in those exclamation points!
 
+<br/>
+ 
+## More About Voice and Tone
+  
+  
+ <br/>
+
+## Active Voice
+When writing it's best to use active voice and avoid passive voice. We use active voice to convey a strong and clear tone. It allows us to write concisely and efficently, therefore creating a more engagging content that make it easier to follow along.
+
+Active voice is when the subject of a sentence performs the verb’s action. Passive voice is when the verb acts on the subject. 
+<div>
+<pre>
+ ✅  The PurchaserInfo object contains all of the purchase and subscription data available about the user.
+ </pre>
+<pre>
+❌   All subscription and purchase data can be found in the PurchaserInfo object. 
+</pre>
+ </div>
+  
+<br/>
+  
+ ## Calls to Action
+  A call to action is a inviation for our reader to take a desired action. We use strong command verbs that encourage a reader to take the next step.
+  
+  <div>
+<pre>
+ ✅  Look at our  <a href="url">guide on entitlements</a> to make sure your products are configured correctly.
+ </pre>
+<pre>
+❌   If you haven't already, make sure your products are configured correctly by 
+     checking out our <a href="url"> guide on entitlements </a>.
+</pre>
+ </div>
+  
+  
+  
+  
+  
+  
+  
   
   
   
