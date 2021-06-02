@@ -3,7 +3,16 @@
 
 When writing technical documentation, there are cases where a table, photo, etc., is the best way to display data. This guide will go over our best practices for creating additional structured content for a page.
 
+## Tables   
+ We use tables and lists to show complex data in a more accessible, readable format. When deciding if a table or list  is the right option, let’s reference the table below:
 
+| Tables can be used for  |      Example      |  
+|:------------|:-----------------|
+|Simple Instructions |  List of steps to follow when debugging  |
+| Data or values |    A set of parameters in setting up a RevenueCat product | 
+|Categories of things with examples| use case scenariors for when to use restore behavior |
+|Collections of things with at least two attributes| The events Amplitude tracks|
+  
 ## Glossary
 Throughout our documentation, we often are referencing products or tools that are unique to RevenueCat.To make sure our reader always understands our references. It’s best to add the glossary term to the reader than review while reading. You can review the ReadMe glossary term guide here for how to add our documentation. 
 <div align='center'>
