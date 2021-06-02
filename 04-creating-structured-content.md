@@ -3,17 +3,6 @@
 
 When writing technical documentation, there are cases where a table, photo, etc., is the best way to display data. This guide will go over our best practices for creating additional structured content for a page.
 
-## Tables vs. Lists
-
-We use tables and lists to show complex data in a more accessible, readable format.
-
-When deciding if a table or list  is the right option, let’s reference the table below:
-
-| Item Type  |      Example      |  How to Present |
-|:------------:|:-----------------:|:----------------:|
-|Each item is a single unit |  List of steps to follow when debugging  | Numbered list, lettered list, bullet points |
-| Each item is comprised of related data |    A set of parameters in setting up a RevenueCat product |   Use a table  |
-
 
 ## Glossary
 Throughout our documentation, we often are referencing products or tools that are unique to RevenueCat.To make sure our reader always understands our references. It’s best to add the glossary term to the reader than review while reading. You can review the ReadMe glossary term guide here for how to add our documentation. 
@@ -24,7 +13,7 @@ Throughout our documentation, we often are referencing products or tools that ar
 ## Photos
 Photos are sometimes needed to display information. We often use photos in our product installation guides to show different dashboards and other relevant information. 
 
-When utilizing photos, make sure it only includes relevant information. If pointing to specific items on the page, make sure to mark up the image to reflect this. We use red identifiers when marking photos.
+When utilizing photos, make sure it only includes relevant information. If pointing to specific items on the page, make sure to mark up the image to reflect this. We use red cirlce identifiers when marking photos.
 
 Here is an example of a photo marked up for documentation:
 <div align='center'>
@@ -39,32 +28,32 @@ Some content is so crucial that we need to separate it from the rest of the docu
 ### Success
 The success callout is best for letting the reader know a task is complete,  a small reminder before continuing, or a helpful tip. 
 
-> 👍  Success
+> 👍  
 > 
-> You might let a reader know that they are good to move to the following document
+> This section assumes you've followed our Quickstart section of our Getting Started guide to install and configure our SDK.
 
 
 ### Info 
-Info callout is for giving additional relevant information. These could contain a link out to external documents for more details. 
+Info callout is for giving additional relevant information. These callouts shouldn't contain information that must be completed before moving foreward.These should contain links out to external docs or some info that a reader can conutine to look into. 
 
->📘  Info
-> 
-> You could use this space to pointer a reader to some external documents
+>📘  Supported proration modes
+>
+> RevenueCat currently only supports IMMEDIATE_WITH_TIME_PRORATION. This mode changes the subscription immediately and the remaining time will be prorated.
 
 
 ### Warning 
-These are best used to alert our readers to process with caution or warn of a common mistake we see. 
+These are best used to alert our readers to process with caution or warn of a common mistake we see.They should be titles with **Warning** or **Important**. 
 
 > 🚧  Warning
 > 
-> You could let the reader know about a feature to be careful about
+> Only Package Pricing and Standard Pricing subscription plans with per unit pricing are supported. Metered usage and tiers are currently not supported.
   
 ### Error
-Add content
+These are best use sparingly and for content that cannot be undone once a action is taken
 
->❗  Error
+>❗  Careful
 > 
-> Add content
+> Deleting a user with live purchases may have downstream effects on charts and reporting.
 
 
 ## Next Steps 
