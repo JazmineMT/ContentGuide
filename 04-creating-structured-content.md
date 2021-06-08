@@ -14,7 +14,7 @@ When writing technical documentation, there are cases where a table, photo, etc.
 |Collections of things with at least two attributes| The events Amplitude tracks|
   
 ## Glossary
-Throughout our documentation, we often are referencing products or tools that are unique to RevenueCat.To make sure our reader always understands our references. It’s best to add the glossary term to the reader than review while reading. You can review the ReadMe glossary term guide here for how to add our documentation. 
+Throughout our documentation, we often are referencing products or tools that are unique to RevenueCat.This makes sure our reader always understands our references. It’s best to add the glossary term to the reader than review while reading. You can review the [ReadMe glossary term guide](https://blog.readme.com/glossary/) for how to add our documentation. 
 <div align='center'>
 <img src="ezgif.com-gif-maker.gif"/>
 </div>
@@ -29,6 +29,15 @@ Here is an example of a photo marked up for documentation:
 <img src='Screen Shot 2021-05-17 at 4.27.00 PM.png'/>
 </div>
 
+ ## When to combine photos and tables
+ Often times we are sharing photos that contain alot of information. This can be hard for a reader to follow. When sharing a photo that has more than 1 action item to follow, pair with a table to address the multiple points of data. 
+ 
+ Here is an example of a photo paired with a table:
+ <div align='center'>
+<img src=''/>
+</div>
+ 
+ 
 Don’t forget to create Alt text that described the photo, allowing access to screen reading technologies.
 
 ## Callouts
