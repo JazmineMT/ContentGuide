@@ -29,7 +29,7 @@ Here is an example of a photo marked up for documentation:
 <img src='Screen Shot 2021-05-17 at 4.27.00 PM.png'/>
 </div>
 
- ## When to combine photos and tables
+ ## When to Combine Photos and Tables
  Often times we are sharing photos that contain alot of information. This can be hard for a reader to follow. When sharing a photo that has more than 1 action item to follow, pair with a table to address the multiple points of data. Make sure your table includes a key for a reader to follow along that corresponds with the photo. 
  
  Here is an example of a photo paired with a table:
