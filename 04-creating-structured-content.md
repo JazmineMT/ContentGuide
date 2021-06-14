@@ -31,7 +31,6 @@ When writing technical documentation, there are cases where a table, photo, etc.
 <pre>
 ✅ 1. Navigate to your app settings in the RevenueCat dashboard.
 </pre>
-<br/>
  
  ### Capitlization
  Always start each list item with a capital letter and follow with [sentence casing](https://github.com/JazmineMT/ContentGuide/blob/main/03-grammar-and-mechanics.md#other-content---sentence-case)
