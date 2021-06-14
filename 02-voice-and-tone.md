@@ -31,7 +31,7 @@ Our Voice is our writing style. We strive to provide a consistent experience wit
 
 ### Conversational
 
-Although we work with computers every day, we don't want to sound like one. Use contractions and address our customers a 'you' to keep things conversational. 
+Although we work with computers every day, we don't want to sound like one. Use contractions and address our customers as 'you' to keep things conversational. 
 
 <pre>
 ✅  With your products set up in the stores, 
