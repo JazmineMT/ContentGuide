@@ -8,10 +8,37 @@ When writing technical documentation, there are cases where a table, photo, etc.
 
 | Tables can be used for  |      Example      |  
 |:------------|:-----------------|
-|Simple instructions | List of steps to follow when debugging  |
 |Data or values | A set of parameters in setting up a RevenueCat product | 
 |Categories of things with examples| Use case scenarios for when to use restore behavior |
 |Collections of things with at least two attributes| The events Amplitude tracks|
+ 
+ ## Lists 
+ We use lists when each item we are trying to represent is a single unit. The most often used instance of this is a list of steps for a developer to follow.
+ 
+ ### Bulleted lists 
+ Use a bulleted list when your information has things in common, but there is no need for a particular order. 
+ 
+ ### Numbered lists
+ Numbered lists are for when your information must be in sequential order.
+ 
+ 
+ #### Puncation ( Numbered lists)
+ Numbered lists should always follow the number with a period.
+ 
+  <pre>
+❌  1 - Navigate to your app settings in the RevenueCat dashboard.
+</pre>
+<pre>
+✅ 1. Navigate to your app settings in the RevenueCat dashboard.
+</pre>
+<br/>
+ 
+ ### Capitlization
+ Always start each list item with a capital letter and follow with [sentence casing](https://github.com/JazmineMT/ContentGuide/blob/main/03-grammar-and-mechanics.md#other-content---sentence-case)
+
+ 
+ 
+ 
   
 ## Glossary
 Throughout our documentation, we often are referencing products or tools that are unique to RevenueCat. This makes sure our reader always understands our references. It’s best to add the glossary term to the reader than review while reading. You can review the [ReadMe glossary term guide](https://blog.readme.com/glossary/) for how to add our documentation. 
