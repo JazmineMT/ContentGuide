@@ -80,7 +80,7 @@ We write all other content (except tiles and headers) in sentence case.
 </pre>
 
 ### Referencing Other Companies
-Honor’s the companies own names for themselves. Go by the official website.
+Honor a company by capitalizing their name the same way that they do according to their official website. 
 <pre>
 ✅  In the Google Play Console.
 </pre>
@@ -181,7 +181,7 @@ When referring to numbers it’s best to use digits instead of spelling the word
 <pre>
 ✅  The Apple subscription terms require users to cancel subscriptions at least 24 hours before the next renewal.
 </pre>
-When the number doesn’t represent a fact, but generalization spell out the word
+When a number represents a generalization instead of a fact, spell out the word.
 <pre>
 ✅  We have thousands of developers using RevenueCat.
 </pre>
