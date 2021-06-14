@@ -8,6 +8,8 @@ To keep our content consistent we adhere to the following grammar rules and mech
 <br/>
 [Italics](#italics)
 <br/>
+[Bold](#bold)
+<br/>
 [Capitlization](#capitalization)
 <br/>
 [Code in Text](#code-in-text)
@@ -45,7 +47,13 @@ We use the word **select** instead of **click** when addressing our readers. Thi
 
 ## Italics
 
-In general, we don’t *italicize*; instead, we **bold** words. Readers can quickly scan our documentation.
+In general, we don’t *italicize*. Only use when defining a word/phrase or referring to books, movies, and other full-length works.
+
+<br/>
+
+## Bold
+
+**Bold** content can is more accessible when scanning our documentation. Use this for UI elements and drawing emphasis to something. 
 
 <br/>
 
