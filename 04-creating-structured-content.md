@@ -75,7 +75,7 @@ These are best used sparingly and for content that cannot be undone once a actio
 
 
 ## Next Steps 
-At the end of our documents, always include Next Steps when relevant. Acceptable items to be included can be the following document you want the reader to visit or a blog post with similar helpful information. 
+At the end of our documents, include a Next Steps when relevant. Acceptable items to be included can be a related document you want the reader to visit or a blog post with similar helpful information. 
 
 Here is an example of a Next Steps included in our documentation:
 
