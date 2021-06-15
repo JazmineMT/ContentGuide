@@ -121,7 +121,7 @@ Our Voice always stays the same, but our Tone will change based on the situation
 
 <br/>
 
-If a customer reaching out to us is facing an integration problem, they are likely stressed. They are probably looking for a fast and easy-to-understand solution - so being direct and concise is best here. However, if a customer is reading through documentation or comes to us after shipping their app, we can choose to be more friendly and use exclamation points!
+If the customer reaching out to us is facing an integration problem, they are likely stressed. They are probably looking for a fast and easy-to-understand solution - so being direct and concise is best here. However, if the customer is reading through documentation or comes to us after shipping their app, we can choose to be more friendly and use exclamation points!
 
 <br/>
  
