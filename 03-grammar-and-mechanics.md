@@ -8,6 +8,8 @@ To keep our content consistent, we adhere to the following grammar rules and mec
 <br/>
 [Italics](#italics)
 <br/>
+[Bold](#bold)
+<br/>
 [Capitlization](#capitalization)
 <br/>
 [Code in Text](#code-in-text)
@@ -45,7 +47,13 @@ We use the word **select** instead of **click** when addressing our readers. Thi
 
 ## Italics
 
-In general, we don’t *italicize* for emphasis; instead, we **bold** words so that readers can quickly scan our documentation.
+In general, we don’t *italicize*. Only use this when defining a word/phrase or when referring to books, movies, and other full-length works.
+
+<br/>
+
+## Bold
+
+**Bold** content can is more accessible when scanning our documentation. Use this for UI elements and to draw emphasis to something. 
 
 <br/>
 
@@ -80,7 +88,7 @@ We write all other content (except tiles and headers) in sentence case.
 </pre>
 
 ### Referencing Other Companies
-Honor the company's own names for their products. Go by the official website.
+Honor the company by capitalizing their name the same way that they do according to their official website. 
 <pre>
 ✅  In the Google Play Console.
 </pre>
@@ -181,7 +189,7 @@ When referring to numbers, it’s best to use digits instead of spelling out the
 <pre>
 ✅  The Apple subscription terms require users to cancel subscriptions at least 24 hours before the next renewal.
 </pre>
-When the number doesn’t represent a fact but a generalization, spell out the word.
+When a number represents a generalization instead of a fact, spell out the word.
 <pre>
 ✅  We have thousands of developers using RevenueCat.
 </pre>

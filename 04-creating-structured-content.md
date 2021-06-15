@@ -8,10 +8,36 @@ We use tables and lists to show complex data in a more accessible, readable form
 
 | Tables can be used for  |      Example      |  
 |:------------|:-----------------|
-|Simple Instructions |  List of steps to follow when debugging  |
-| Data or values |    A set of parameters in setting up a RevenueCat product | 
-|Categories of things with examples| use case scenariors for when to use restore behavior |
+|Data or values | A set of parameters in setting up a RevenueCat product | 
+|Categories of things with examples| Use case scenarios for when to use restore behavior |
 |Collections of things with at least two attributes| The events Amplitude tracks|
+ 
+ ## Lists 
+ We use lists when each item we are trying to represent is a single unit. The most often used instance of this is a list of steps for a developer to follow.
+ 
+ ### Bulleted lists 
+ Use a bulleted list when your information has things in common, but there is no need for a particular order. 
+ 
+ ### Numbered lists
+ Numbered lists are for when your information must be in sequential order.
+ 
+ 
+ #### Puncation ( Numbered lists)
+ Numbered lists should always follow the number with a period.
+ 
+  <pre>
+❌  1 - Navigate to your app settings in the RevenueCat dashboard.
+</pre>
+<pre>
+✅ 1. Navigate to your app settings in the RevenueCat dashboard.
+</pre>
+ 
+ ### Capitlization
+ Always start each list item with a capital letter and follow with [sentence casing](https://github.com/JazmineMT/ContentGuide/blob/main/03-grammar-and-mechanics.md#other-content---sentence-case)
+
+ 
+ 
+ 
   
 ## Glossary
 Throughout our documentation, we often reference products or tools that are unique to RevenueCat. A glossary makes sure our reader always understands our references. It’s best to add the glossary term to the reader then review while reading. You can review the [ReadMe glossary term guide](https://blog.readme.com/glossary/) for how to add this to our documentation. 
@@ -52,22 +78,22 @@ The success callout is best for letting the reader know a task is complete, a sm
 
 
 ### Info 
-Info callout is for giving additional relevant information. These callouts shouldn't contain information that must be completed before moving foreward. These should contain links out to external docs or some info that a reader can conutine to look into. 
+Info callout is for giving additional relevant information. These callouts shouldn't contain information that must be completed before moving forward. These should contain links out to external docs or some info that a reader can continue to look into. 
 
 >📘  Supported proration modes
 >
-> RevenueCat currently only supports IMMEDIATE_WITH_TIME_PRORATION. This mode changes the subscription immediately and the remaining time will be prorated.
+> RevenueCat currently only supports `IMMEDIATE_WITH_TIME_PRORATION`. This mode changes the subscription immediately and the remaining time will be prorated.
 
 
 ### Warning 
-These are best used to alert our readers to process with caution or warn of a common mistake we see.They should be titles with **Warning** or **Important**. 
+These are best used to alert our readers to proceed with caution or warn of a common mistake we see. They should be titles with **Warning** or **Important**. 
 
 > 🚧  Warning
 > 
 > Only Package Pricing and Standard Pricing subscription plans with per unit pricing are supported. Metered usage and tiers are currently not supported.
   
 ### Error
-These are best use sparingly and for content that cannot be undone once a action is taken
+These are best used sparingly and for content that cannot be undone once a action is taken.
 
 >❗  Careful
 > 
@@ -75,7 +101,7 @@ These are best use sparingly and for content that cannot be undone once a action
 
 
 ## Next Steps 
-At the end of our documents, always include Next Steps at the bottom of documentation when relevant. Acceptable items to be included can be the following document you want the reader to visit or a blog post with similar helpful information. 
+At the end of our documents, include a Next Steps when relevant. Acceptable items to be included can be a related document you want the reader to visit or a blog post with similar helpful information. 
 
 Here is an example of a Next Steps included in our documentation:
 
