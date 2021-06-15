@@ -22,7 +22,7 @@ Throughout our documentation, we often reference products or tools that are uniq
 ## Photos
 Photos are sometimes needed to display information. We often use photos in our product installation guides to show different dashboards and other relevant information. 
 
-When utilizing photos, make sure it only includes relevant information. If pointing to specific items on the page, make sure to mark up the image to reflect this. We use red cirlce identifiers when marking photos.
+When utilizing a photo, make sure it only includes relevant information. If you're pointing to specific items on the page, make sure to mark up the image to reflect this. We use red circle identifiers when marking photos.
 
 Here is an example of a photo marked up for documentation:
 <div align='center'>
@@ -30,7 +30,7 @@ Here is an example of a photo marked up for documentation:
 </div>
 
  ## When to Combine Photos and Tables
- Often times we are sharing photos that contain alot of information. This can be hard for a reader to follow. When sharing a photo that has more than 1 action item to follow, pair with a table to address the multiple points of data. Make sure your table includes a key for a reader to follow along that corresponds with the photo. 
+ Oftentimes we are sharing photos that contain a lot of information. This can be hard for a reader to follow. When sharing a photo that has more than 1 action item to follow, pair it with a table to address the multiple points of data. Make sure your table includes a key for a reader to follow along that corresponds with the photo. 
  
  Here is an example of a photo paired with a table:
  <div align='center'>
@@ -38,13 +38,13 @@ Here is an example of a photo marked up for documentation:
 </div>
  
  
-Don’t forget to create Alt text that described the photo, allowing access to screen reading technologies.
+Don’t forget to create Alt text that describes the photo, allowing access to screen reading technologies.
 
 ## Callouts
 Some content is so crucial that we need to separate it from the rest of the document. We use flavored callouts to display this. 
 
 ### Success
-The success callout is best for letting the reader know a task is complete,  a small reminder before continuing, or a helpful tip. 
+The success callout is best for letting the reader know a task is complete, a small reminder before continuing, or a helpful tip. 
 
 > 👍  
 > 
@@ -52,7 +52,7 @@ The success callout is best for letting the reader know a task is complete,  a s
 
 
 ### Info 
-Info callout is for giving additional relevant information. These callouts shouldn't contain information that must be completed before moving foreward.These should contain links out to external docs or some info that a reader can conutine to look into. 
+Info callout is for giving additional relevant information. These callouts shouldn't contain information that must be completed before moving foreward. These should contain links out to external docs or some info that a reader can conutine to look into. 
 
 >📘  Supported proration modes
 >
