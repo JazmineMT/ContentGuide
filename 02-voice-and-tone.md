@@ -82,7 +82,7 @@ Sometimes less is more; always strive to say the same thing in fewer words. It c
 
 ### Helpful
 
-Although we are subject-matter experts of our product, we never want to use an I-Know-Better approach. Always acknowledge a customer's issue and try to provide a solution to their problem.
+Although we are subject-matter experts of our product, we never want to use an I-Know-Better approach. Always acknowledge the customer's issue and try to provide a solution to their problem.
 
 
 ````
@@ -121,7 +121,7 @@ Our Voice always stays the same, but our Tone will change based on the situation
 
 <br/>
 
-If a customer is reaching out to us facing an integration problem, they are likely stressed. They are probably looking for a fast and easy-to-understand solution - so being direct and concise is best here. However, if a customer is reading through documentation or comes to us after shipping their app, we can choose to be more friendly and use exclamation points!
+If a customer reaching out to us is facing an integration problem, they are likely stressed. They are probably looking for a fast and easy-to-understand solution - so being direct and concise is best here. However, if a customer is reading through documentation or comes to us after shipping their app, we can choose to be more friendly and use exclamation points!
 
 <br/>
  
@@ -146,7 +146,7 @@ Active voice is when the subject of a sentence performs the verb’s action. Pas
 <br/>
   
  ### Call to Action
-  A call to action is an invitation for our reader to take the desired action. We use strong command verbs that encourage a reader to take the next step.
+A call to action is an invitation for our reader to take the desired action. We use strong command verbs that encourage the reader to take the next step.
   
   <div>
 <pre>

@@ -53,7 +53,7 @@ In general, we don’t *italicize*. Only use this when defining a word/phrase or
 
 ## Bold
 
-**Bold** content can is more accessible when scanning our documentation. Use this for UI elements and to draw emphasis to something. 
+**Bold** content is more accessible when scanning our documentation. Use this to refer to UI elements or to draw emphasis to something. 
 
 <br/>
 
@@ -159,17 +159,17 @@ We reference email without the hyphen.
 
 ### Sign -in/up vs Sign in/up 
 
-When used as a verb, it’s two words.
-<pre>
-✅  Please sign in to your account
-</pre>
-
 When used as an adjective, it’s hyphenated. 
 <pre>
 ✅  The sign-up page crashed
 </pre>
 
-### Login vs  Log in vs Log-in
+When used as a verb, it’s two words.
+<pre>
+✅  Please sign in to your account
+</pre>
+
+### Log-in vs Login vs Log in
 
 When used as an adjective or noun, it’s one word or hyphenated.
 <pre>
