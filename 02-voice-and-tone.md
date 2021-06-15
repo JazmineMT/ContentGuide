@@ -1,6 +1,6 @@
 # <div align='center'> RevenueCat's Voice 
   
-Our Voice is our writing style. We strive to provide a consistent experience with our customers- it's how we show we're considerate about what they need to know. 
+Our Voice is our writing style. We strive to provide a consistent experience with our customers - it's how we show we're considerate about what they need to know. 
 
 <br/>
   
@@ -8,11 +8,11 @@ Our Voice is our writing style. We strive to provide a consistent experience wit
 
 **Conversational**, we know when to be professional and when to be more casual.
 
-**Action focused**, we are clear about the steps customers need to follow
+**Action-Focused**, we are clear about the steps customers need to follow.
 
 **Clear and Concise**, we don't use ten words when five are enough.
 
-**Helpful**, we recognize our customer's problems and meet them with knowledge and compassion 
+**Helpful**, we recognize our customers' problems and meet them with knowledge and compassion. 
 
  <br/> 
   
@@ -31,7 +31,7 @@ Our Voice is our writing style. We strive to provide a consistent experience wit
 
 ### Conversational
 
-Although we work with computers every day, we don't want to sound like one. Use contractions and address our customers a 'you' to keep things conversational. 
+Although we work with computers every day, we don't want to sound like one. Use contractions and address our customers as 'you' to keep things conversational. 
 
 <pre>
 ✅  With your products set up in the stores, 
@@ -46,20 +46,20 @@ Although we work with computers every day, we don't want to sound like one. Use 
 
 <br/>
 
-### Action focused
+### Action-Focused
 
 We always want to motivate our customers to take the next step. Always make it clear what action you want the customer to take.
 
 
 <pre>
-✅  Please ensure the debug logs include the entire app life-cycle, 
+✅  Please ensure the debug logs include the entire app lifecycle, 
    including the messages printed during initialization of the SDK. 
    The more information you have here, the better we'll be able to help.
 </pre>
 <pre>
 ❌  We'll be able to help with more information you include. 
     Debugs logs should include messages printed during initialization of the SDK; 
-    this can be done by ensuring debug logs include the entire app life cycle.
+    this can be done by ensuring debug logs include the entire app lifecycle.
 </pre>
 
  <br/>
@@ -71,7 +71,7 @@ Sometimes less is more; always strive to say the same thing in fewer words. It c
 
 <pre>
 ✅  To change the current Offering, navigate to the Offerings tab for your app in the RevenueCat dashboard 
-    and select Make current next to the Offering you'd like to enable
+    and select Make Current next to the Offering you'd like to enable
 </pre>
   ````
 ❌  If you need to change the current Offering, first navigate to the offerings tab in the RevenueCat dashboard. 
@@ -82,14 +82,14 @@ Sometimes less is more; always strive to say the same thing in fewer words. It c
 
 ### Helpful
 
-Although we are subject matter experts of our product, we never want to use an I-know-better approach. Always acknowledge a customer's issue and try to provide a solution to their problem.
+Although we are subject-matter experts of our product, we never want to use an I-Know-Better approach. Always acknowledge a customer's issue and try to provide a solution to their problem.
 
 
 ````
 ✅  Unfortunately, Apple's sandbox environment is notoriously flaky - 
     there are regular outages, and sometimes purchases can get hung up in their system. 
     Most of the time, this error is due to sandbox downtime, 
-    but you can read about all the causes for this error in our guide on error handling 
+    but you can read about all of the causes for this error in our guide on error handling 
     here: https://docs.revenuecat.com/docs/errors#--store_problem.  
   
     To clarify, there's nothing you as a developer or RevenueCat 
@@ -98,7 +98,7 @@ Although we are subject matter experts of our product, we never want to use an I
 ````
 ❌  Apple's sandbox environment is notoriously flaky. 
     Most of the time, this error is due to sandbox downtime, 
-    but you can read about all the causes for this error 
+    but you can read about all of the causes for this error 
     in our guide on error handling here: https://docs.revenuecat.com/docs/errors#--store_problem.
 ````
 
@@ -108,20 +108,20 @@ Although we are subject matter experts of our product, we never want to use an I
 
 ## Voice vs. Tone 
 
-Our Voice always stays the same, but our Tone will change based on the situation. Think of it this way; if you're whispering or yelling, you have stayed the same - just changed your tone. 
+Our Voice always stays the same, but our Tone will change based on the situation. Think of it this way: if you're whispering or yelling, you have stayed the same - just changed your tone. 
 
 <br/>
   
   | Voice (doesn't change)  | Tone (varies based on situation)|     
 |:-------------------:|:-----------------:|
 |Conversational       |     Friendly      |
-| Action focused       |    Urgent         |
+| Action-Focused       |    Urgent         |
 |Clear and Concise.   |Encouraging        |
  | Helpful            |  Casual           |
 
 <br/>
 
-If a customer is reaching out to us facing an integration problem, they are likely stressed. They are probably looking for a fast and easy-to-understand solution - so being direct and concise is best here. However, if a customer reading through documentation or comes to us after shipping their app, we can choose to be more friendly and in those exclamation points!
+If a customer is reaching out to us facing an integration problem, they are likely stressed. They are probably looking for a fast and easy-to-understand solution - so being direct and concise is best here. However, if a customer is reading through documentation or comes to us after shipping their app, we can choose to be more friendly and use exclamation points!
 
 <br/>
  
@@ -154,7 +154,7 @@ Active voice is when the subject of a sentence performs the verb’s action. Pas
  </pre>
 <pre>
 ❌   If you haven't already, make sure your products are configured correctly by 
-     checking out our <a href="url"> guide on entitlements </a>.
+     checking out our <a href="url"> guide on entitlements</a>.
 </pre>
  </div>
   

@@ -1,6 +1,6 @@
  # <div align='center'> Grammar and Mechanics
 
-To keep our content consistent we adhere to the following grammar rules and mechanics. This guide will define our style for how we write technical documentation.
+To keep our content consistent, we adhere to the following grammar rules and mechanics. This guide will define our style for how we write technical documentation.
 
 [Links](#links)
 <br/>
@@ -45,7 +45,7 @@ We use the word **select** instead of **click** when addressing our readers. Thi
 
 ## Italics
 
-In general, we don’t *italicize*; instead, we **bold** words. Readers can quickly scan our documentation.
+In general, we don’t *italicize* for emphasis; instead, we **bold** words so that readers can quickly scan our documentation.
 
 <br/>
 
@@ -55,9 +55,9 @@ We use a couple of different capitalizations: title case and sentence case.
 
 
 ### Headers/Titles - Title Case
-Title case is when the first letter of every word except articles, prepositions, and conjunctions is capitlized.  
+Title case is when the first letter of every word except articles, prepositions, and conjunctions is capitalized.  
 
-When writing titles and headers we follow title case guidelines. 
+When writing titles and headers, we follow title case guidelines. 
 <pre>
 ❌  Create an In-app purchase
  </pre>
@@ -68,7 +68,7 @@ When writing titles and headers we follow title case guidelines.
 
 
 ### Other Content - Sentence Case 
-Sentence case is when the first letter in the first word and proper nouns in a phrase is capitalized.
+Sentence case is when the first letter in the first word and proper nouns in a phrase are capitalized.
 
 
 We write all other content (except tiles and headers) in sentence case. 
@@ -80,7 +80,7 @@ We write all other content (except tiles and headers) in sentence case.
 </pre>
 
 ### Referencing Other Companies
-Honor’s the companies own names for themselves. Go by the official website.
+Honor the company's own names for their products. Go by the official website.
 <pre>
 ✅  In the Google Play Console.
 </pre>
@@ -89,11 +89,11 @@ Honor’s the companies own names for themselves. Go by the official website.
 
 ## Code in Text
 
-When writing code in the documentation it’s best to separate it from regular text.
+When writing code in the documentation, it’s best to separate the code from regular text.
 
 ### Large Code Blocks
 
-For longer blocks of code, use a code snippet block to keep all of the code contained and formatted
+For longer blocks of code, use a code snippet block to keep all of the code contained and formatted.
 
 ````Swift
 ✅  Purchases.shared.offerings { (offerings, error) in
@@ -105,7 +105,7 @@ For longer blocks of code, use a code snippet block to keep all of the code cont
 
 ### Small Code References 
 
-For small code references, such as an SDK method or parameter from a webhook event, always contain it in backticks
+For small code references, such as an SDK method or a parameter from a webhook event, always contain the code in backticks.
 
 > ✅   The `getOfferings` method will fetch the Offerings from RevenueCat
 
@@ -117,19 +117,19 @@ For small code references, such as an SDK method or parameter from a webhook eve
 
 ## Contractions
 
-We like to keep our tone conversational so we use contractions regularly. 
+We like to keep our tone conversational, so we use contractions regularly. 
 
 <br/>
 
 ## Dates
 
-Spell out months and days of the week in either long or short form. 
+Spell out months and days of the week in either short or long form. 
 
 ### Short form:  Abbreviate to 3 letters, no period 
 <pre>
 ✅  Mon, Tue, Wed - Jan, Feb, Mar
 </pre>
-### Long-form: Spell out whenever other words frame the day or month
+### Long form: Spell out whenever other words frame the day or month
 <pre>
 ✅  Saturday, April 17
 </pre>
@@ -138,7 +138,7 @@ Spell out months and days of the week in either long or short form.
 
 ## Exclamation Points
 
-We love sharing our enthusiasm with an exclamation point! They can help keep communication light. Use them when needed. 
+We love sharing our enthusiasm with an exclamation point! It can help keep communication light. Use it when needed. 
 
 <br/>
 
@@ -151,7 +151,7 @@ We reference email without the hyphen.
 
 ### Sign -in/up vs Sign in/up 
 
-When it is used as a verb, it’s two words 
+When used as a verb, it’s two words.
 <pre>
 ✅  Please sign in to your account
 </pre>
@@ -168,7 +168,7 @@ When used as an adjective or noun, it’s one word or hyphenated.
 ✅  Enter your login (log-in) information
 </pre>
 
-When it is used as a verb, it’s two words  
+When used as a verb, it’s two words.
 <pre>
 ✅  Log in with your account
 </pre>
@@ -177,11 +177,11 @@ When it is used as a verb, it’s two words
 
 ## Numbers 
 
-When referring to numbers it’s best to use digits instead of spelling the word out in most cases. It helps draw the eye of the reader to the critical content. 
+When referring to numbers, it’s best to use digits instead of spelling out the word in most cases. This helps draw the eye of the reader to the critical content. 
 <pre>
 ✅  The Apple subscription terms require users to cancel subscriptions at least 24 hours before the next renewal.
 </pre>
-When the number doesn’t represent a fact, but generalization spell out the word
+When the number doesn’t represent a fact but a generalization, spell out the word.
 <pre>
 ✅  We have thousands of developers using RevenueCat.
 </pre>
@@ -197,10 +197,7 @@ Emojis are a fun way to add humor and visual interest to your writing but use th
 
 ## Writing About RevenueCat 
 
-When we refer to ourselves we always capitalize the ‘R’ and ‘C’ and use ‘we’ not ‘it’.
-
-
-
+When we refer to ourselves, we always capitalize the ‘R’ and ‘C’ and use ‘we’ not ‘it’.
 
 
 
