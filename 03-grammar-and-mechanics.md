@@ -88,7 +88,7 @@ We write all other content (except tiles and headers) in sentence case.
 </pre>
 
 ### Referencing Other Companies
-Honor the company by capitalizing their name the same way that they do according to their official website. 
+Honor the company by capitalizing their name and thier products the same way that they do according to their official website. 
 <pre>
 ✅  In the Google Play Console.
 </pre>
