@@ -8,7 +8,7 @@ Our Voice is our writing style. We strive to provide a consistent experience wit
 
 **Conversational**, we know when to be professional and when to be more casual.
 
-**Action-Focused**, we are clear about the steps customers need to follow.
+**Action-Focused**, we're clear about the steps customers need to follow.
 
 **Clear and Concise**, we don't use ten words when five are enough.
 
@@ -116,12 +116,12 @@ Our Voice always stays the same, but our Tone will change based on the situation
 |:-------------------:|:-----------------:|
 |Conversational       |     Friendly      |
 | Action-Focused       |    Urgent         |
-|Clear and Concise.   |Encouraging        |
+|Clear and Concise   |Encouraging        |
  | Helpful            |  Casual           |
 
 <br/>
 
-If the customer reaching out to us is facing an integration problem, they are likely stressed. They are probably looking for a fast and easy-to-understand solution - so being direct and concise is best here. However, if the customer is reading through documentation or comes to us after shipping their app, we can choose to be more friendly and use exclamation points!
+If the customer reaching out to us is facing an integration problem, they're likely stressed. They're probably looking for a fast and easy-to-understand solution - so being direct and concise is best here. However, if the customer is reading through documentation or comes to us after shipping their app, we can choose to be more friendly and use exclamation points!
 
 <br/>
  

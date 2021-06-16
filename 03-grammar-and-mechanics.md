@@ -53,7 +53,7 @@ In general, we don’t *italicize*. Only use this when defining a word/phrase or
 
 ## Bold
 
-**Bold** content is more accessible when scanning our documentation. Use this to refer to UI elements or to draw emphasis to something. 
+**Bold** content is more accessible when scanning our documentation. Use this when referring to UI elements or when drawing emphasis to something. 
 
 <br/>
 

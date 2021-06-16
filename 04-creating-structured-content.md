@@ -49,7 +49,7 @@ Photos are sometimes needed to display information. We often use photos in our p
 
 When using a photo, make sure it only includes relevant information. If you're pointing to specific items on the page, make sure to mark up the image to reflect this. We use red circle identifiers when marking photos.
 
-Here is an example of a photo marked up for documentation:
+Here's an example of a photo marked up for documentation:
 <div align='center'>
 <img src='Screen Shot 2021-05-17 at 4.27.00 PM.png'/>
 </div>
@@ -57,7 +57,7 @@ Here is an example of a photo marked up for documentation:
 ## When to Combine Photos and Tables
 Oftentimes we are sharing photos that contain a lot of information. This can be hard for the reader to follow. When sharing a photo that has more than 1 action item to follow, pair it with a table to address the multiple points of data. Make sure your table includes a key for the reader to follow along that corresponds with the photo. 
  
-Here is an example of a photo paired with a table:
+Here's an example of a photo paired with a table:
 <div align='center'>
 <img src='Screen Shot 2021-06-08 at 10.17.54 AM.png'/>
 </div>
@@ -102,6 +102,6 @@ The error callout is best used sparingly and for content that cannot be undone o
 ## Next Steps 
 At the end of a document, include Next Steps when relevant. Acceptable items to include here can be a related document you want the reader to visit or a blog post with similar helpful information. 
 
-Here is an example of Next Steps included in our documentation:
+Here's an example of Next Steps included in our documentation:
 
 <img src='Screen Shot 2021-05-17 at 4.24.09 PM.png'/>
