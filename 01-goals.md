@@ -7,7 +7,7 @@ Here at RevenueCat, our mission is to help developers make more money. Plain and
 
 **Guide**. When writing at RevenueCat, we are the tour guides of our product. It's essential to relay the most critical content in an easy-to-follow manner consistently.  
 
-**Be efficient**. Whether we have a large company seeking to integrate RevenueCat or a developer making a side project, all our customers want to get set up quickly. Making content easy to read and scannable respects our developer's time and helps ensure a seamless transition to RevenueCat.
+**Be efficient**. Whether it's a large company seeking to integrate RevenueCat or a developer making a side project, all of our customers want to get set up quickly. Making content easy to read and scannable respects our developers' time and helps ensure a seamless transition to RevenueCat.
 
 
-**Support**. When writing any technical content at RevenueCat, the first thought should always be, is this supportive? All of our communication should be helping give all the necessary information our developers need when using RevenueCat. 
+**Support**. When writing any technical content at RevenueCat, the first thought should always be: is this supportive? All of our communication should be helping give all of the necessary information our developers need when using RevenueCat. 

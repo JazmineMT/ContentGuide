@@ -1,46 +1,45 @@
 # <div align='center'>  Creating Structured Content 
 
 
-When writing technical documentation, there are cases where a table, photo, etc., is the best way to display data. This guide will go over our best practices for creating additional structured content for a page.
+When writing technical documentation, there are cases where a table, photo, or other structure is the best way to display data. This guide will go over our best practices for creating additional structured content for a page.
 
 ## Tables   
- We use tables and lists to show complex data in a more accessible, readable format. When deciding if a table or list  is the right option, let’s reference the table below:
+We use tables and lists to show complex data in a more accessible, readable format. When deciding if a table or a list is the right option, reference the table below:
 
 | Tables can be used for  |      Example      |  
 |:------------|:-----------------|
 |Data or values | A set of parameters in setting up a RevenueCat product | 
-|Categories of things with examples| Use case scenarios for when to use restore behavior |
-|Collections of things with at least two attributes| The events Amplitude tracks|
+|Categories of items with examples| Use case scenarios for when to use restore behavior |
+|Collections of items with at least two attributes| The events Amplitude tracks|
  
  ## Lists 
  We use lists when each item we are trying to represent is a single unit. The most often used instance of this is a list of steps for a developer to follow.
  
  ### Bulleted lists 
- Use a bulleted list when your information has things in common, but there is no need for a particular order. 
+ Use a bulleted list when your information has elements in common but with no need for a particular order. 
  
  ### Numbered lists
  Numbered lists are for when your information must be in sequential order.
  
- 
- #### Puncation ( Numbered lists)
+ #### Punctuation ( Numbered lists)
  Numbered lists should always follow the number with a period.
  
-  <pre>
+<pre>
 ❌  1 - Navigate to your app settings in the RevenueCat dashboard.
 </pre>
 <pre>
 ✅ 1. Navigate to your app settings in the RevenueCat dashboard.
 </pre>
  
- ### Capitlization
- Always start each list item with a capital letter and follow with [sentence casing](https://github.com/JazmineMT/ContentGuide/blob/main/03-grammar-and-mechanics.md#other-content---sentence-case)
+ ### Capitalization
+ Always start each list item with a capital letter and follow with [sentence casing](https://github.com/JazmineMT/ContentGuide/blob/main/03-grammar-and-mechanics.md#other-content---sentence-case).
 
  
  
  
   
 ## Glossary
-Throughout our documentation, we often are referencing products or tools that are unique to RevenueCat. This makes sure our reader always understands our references. It’s best to add the glossary term to the reader than review while reading. You can review the [ReadMe glossary term guide](https://blog.readme.com/glossary/) for how to add our documentation. 
+Throughout our documentation, we often reference products or tools that are unique to RevenueCat. A glossary makes sure our reader always understands our references. It’s best to add the glossary term to the reader than review while reading. You can review the [ReadMe glossary term guide](https://blog.readme.com/glossary/) for how to add this to our documentation. 
 <div align='center'>
 <img src="ezgif.com-gif-maker.gif"/>
 </div>
@@ -48,23 +47,23 @@ Throughout our documentation, we often are referencing products or tools that ar
 ## Photos
 Photos are sometimes needed to display information. We often use photos in our product installation guides to show different dashboards and other relevant information. 
 
-When utilizing photos, make sure it only includes relevant information. If pointing to specific items on the page, make sure to mark up the image to reflect this. We use red circle identifiers when marking photos.
+When using a photo, make sure it only includes relevant information. If you're pointing to specific items on the page, make sure to mark up the image to reflect this. We use red circle identifiers when marking photos.
 
-Here is an example of a photo marked up for documentation:
+Here's an example of a photo marked up for documentation:
 <div align='center'>
 <img src='Screen Shot 2021-05-17 at 4.27.00 PM.png'/>
 </div>
 
- ## When to Combine Photos and Tables
- Often times we are sharing photos that contain alot of information. This can be hard for a reader to follow. When sharing a photo that has more than 1 action item to follow, pair with a table to address the multiple points of data. Make sure your table includes a key for a reader to follow along that corresponds with the photo. 
+## When to Combine Photos and Tables
+Oftentimes we are sharing photos that contain a lot of information. This can be hard for the reader to follow. When sharing a photo that has more than 1 action item to follow, pair it with a table to address the multiple points of data. Make sure your table includes a key for the reader to follow along that corresponds with the photo. 
  
- Here is an example of a photo paired with a table:
- <div align='center'>
+Here's an example of a photo paired with a table:
+<div align='center'>
 <img src='Screen Shot 2021-06-08 at 10.17.54 AM.png'/>
 </div>
+
  
- 
-Don’t forget to create Alt text that described the photo, allowing access to screen reading technologies.
+Don’t forget to create Alt text that describes the photo, allowing access to screen reading technologies.
 
 ## Callouts
 Some content is so crucial that we need to separate it from the rest of the document. We use flavored callouts to display this. 
@@ -78,7 +77,7 @@ The success callout is best for letting the reader know a task is complete, a sm
 
 
 ### Info 
-Info callout is for giving additional relevant information. These callouts shouldn't contain information that must be completed before moving forward. These should contain links out to external docs or some info that a reader can continue to look into. 
+The info callout is for giving additional relevant information. This callout shouldn't contain information that must be completed before moving forward. It should contain links to external documentation or some information that the reader can continue to look into. 
 
 >📘  Supported proration modes
 >
@@ -86,14 +85,14 @@ Info callout is for giving additional relevant information. These callouts shoul
 
 
 ### Warning 
-These are best used to alert our readers to proceed with caution or warn of a common mistake we see. They should be titles with **Warning** or **Important**. 
+The warning callout is best used to alert the reader to proceed with caution or to warn of a common mistake we see. It should be titled with **Warning** or **Important**. 
 
 > 🚧  Warning
 > 
 > Only Package Pricing and Standard Pricing subscription plans with per unit pricing are supported. Metered usage and tiers are currently not supported.
   
 ### Error
-These are best used sparingly and for content that cannot be undone once a action is taken.
+The error callout is best used sparingly and for content that cannot be undone once an action is taken.
 
 >❗  Careful
 > 
@@ -101,8 +100,8 @@ These are best used sparingly and for content that cannot be undone once a actio
 
 
 ## Next Steps 
-At the end of our documents, include a Next Steps when relevant. Acceptable items to be included can be a related document you want the reader to visit or a blog post with similar helpful information. 
+At the end of a document, include Next Steps when relevant. Acceptable items to include here can be a related document you want the reader to visit or a blog post with similar helpful information. 
 
-Here is an example of a Next Steps included in our documentation:
+Here's an example of Next Steps included in our documentation:
 
 <img src='Screen Shot 2021-05-17 at 4.24.09 PM.png'/>
