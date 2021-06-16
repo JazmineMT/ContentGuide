@@ -21,7 +21,7 @@ We use tables and lists to show complex data in a more accessible, readable form
  ### Numbered lists
  Numbered lists are for when your information must be in sequential order.
  
- #### Puncuation ( Numbered lists)
+ #### Punctuation ( Numbered lists)
  Numbered lists should always follow the number with a period.
  
 <pre>
