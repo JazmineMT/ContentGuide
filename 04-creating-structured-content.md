@@ -39,7 +39,7 @@ We use tables and lists to show complex data in a more accessible, readable form
  
   
 ## Glossary
-Throughout our documentation, we often reference products or tools that are unique to RevenueCat. A glossary makes sure our reader always understands our references. It’s best to add the glossary term to the reader than review while reading. You can review the [ReadMe glossary term guide](https://blog.readme.com/glossary/) for how to add this to our documentation. 
+Throughout our documentation, we often reference products or tools that are unique to RevenueCat. A glossary makes sure our reader always understands our references. It’s best to add the glossary term so the reader can understand unique terms without looking back on addtional documentation. You can review the [ReadMe glossary term guide](https://blog.readme.com/glossary/) for how to add this to our documentation. 
 <div align='center'>
 <img src="ezgif.com-gif-maker.gif"/>
 </div>
