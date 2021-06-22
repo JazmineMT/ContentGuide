@@ -1,6 +1,6 @@
 # <div align='center'> RevenueCat's Voice 
   
-Our Voice is our writing style. We strive to provide a consistent experience with our customers - it's how we show we're considerate about what they need to know. 
+Our Voice is our writing style. We strive to provide a consistent experience for developers - it's how we show we're considerate about what they need to know. 
 
 <br/>
   
@@ -8,11 +8,11 @@ Our Voice is our writing style. We strive to provide a consistent experience wit
 
 **Conversational**, we know when to be professional and when to be more casual.
 
-**Action-Focused**, we're clear about the steps customers need to follow.
+**Action-Focused**, we're clear about the steps developers need to follow.
 
 **Clear and Concise**, we don't use ten words when five are enough.
 
-**Helpful**, we recognize our customers' problems and meet them with knowledge and compassion. 
+**Helpful**, we recognize our developers' problems and meet them with knowledge and compassion. 
 
  <br/> 
   
@@ -24,7 +24,7 @@ Our Voice is our writing style. We strive to provide a consistent experience wit
 <li>  Write in <a href="#active-voice"> active voice</a>
 <li>  Include a  <a href="#call-to-action"> call to action</a>
 <li> Use contractions 
-<li> Address our customers as ‘you’
+<li> Address developers as ‘you’
 </ul>
 
 <br/>
@@ -66,7 +66,7 @@ We always want to motivate our customers to take the next step. Always make it c
   
 ### Clear and Concise
 
-Sometimes less is more; always strive to say the same thing in fewer words. It creates a clear and concise message, and it also shows we respect our customers' time. 
+Sometimes less is more; always strive to say the same thing in fewer words. It creates a clear and concise message, and it also shows we respect developers' time. 
 
 
 <pre>
@@ -82,7 +82,7 @@ Sometimes less is more; always strive to say the same thing in fewer words. It c
 
 ### Helpful
 
-Although we are subject-matter experts of our product, we never want to use an I-Know-Better approach. Always acknowledge the customer's issue and try to provide a solution to their problem.
+Although we are subject-matter experts of our product, we never want to use an I-Know-Better approach. Always acknowledge the developer's issue and try to provide a solution to their problem.
 
 
 ````
@@ -121,7 +121,7 @@ Our Voice always stays the same, but our Tone will change based on the situation
 
 <br/>
 
-If the customer reaching out to us is facing an integration problem, they're likely stressed. They're probably looking for a fast and easy-to-understand solution - so being direct and concise is best here. However, if the customer is reading through documentation or comes to us after shipping their app, we can choose to be more friendly and use exclamation points!
+If a developer is reaching out to us facing an integration problem, they're likely stressed. They're probably looking for a fast and easy-to-understand solution - so being direct and concise is best here. However, if the developer is reading through documentation or comes to us after shipping their app, we can choose to be more friendly and use exclamation points!
 
 <br/>
  
@@ -146,7 +146,7 @@ Active voice is when the subject of a sentence performs the verb’s action. Pas
 <br/>
   
  ### Call to Action
-A call to action is an invitation for our reader to take the desired action. We use strong command verbs that encourage the reader to take the next step.
+A call to action is an invitation to developers to take the desired action. We use strong command verbs that encourage the developer to take the next step.
   
   <div>
 <pre>
